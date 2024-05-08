@@ -1,5 +1,6 @@
 # Text processing task
 A text processing task for NER using Spacy, Summarization using HF, searching summarization using TF-IDF
+Open sourcing a task. 
 
 # Running the code.
 Please make sure you have unzipped the file lookups.zip file before trying out the code
